@@ -4,6 +4,8 @@
 
 Live Cricket Score JSON API - Build using Deno 🦕
 
+**API is not working due to the Cricbuzz Mobile site being Fully Redesigned - The full Site Structure was Changed it's a bit complex to get data - Please Consider using the Python Cricket API Version - <https://github.com/sanwebinfo/python-cricket-score/tree/main/api>**
+
 ## Prerequisites 📕
 
 - Deno on your System <https://deno.land/#installation>
